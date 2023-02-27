@@ -29,7 +29,7 @@ SOON... (UNDER CONSTRUCTION)
 
 ## In media: 
 
-[Hackatom ROSATOM 2020](https://portal.if.usp.br/imprensa/pt-br/node/3891)
+[Hackatom ROSATOM 2022](https://portal.if.usp.br/imprensa/pt-br/node/3891)
 
 ## Github Stats:
 
