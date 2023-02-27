@@ -1,6 +1,9 @@
-Hello!
+# Eeai, Beleza? 
 
 My name is Victor Keichi Tsutsumiuchi. I have a degree in Physics and Meteorology, both from the [University of São Paulo (USP)](https://www5.usp.br/), and I am currently a Ph.D. candidate in Nuclear Physics at [Nuclear and Energy Research Institute (IPEN-USP)](https://www.ipen.br).
+
+
+![I am a student at the University of São Paulo](https://github.com/KeichiTS/KeichiTS/blob/main/usp.jpg)
 
 Currently, I am developing technologies for simulating the dispersion of radionuclides from mines, waste deposits, or accidents.
 
@@ -24,6 +27,10 @@ SOON... (UNDER CONSTRUCTION)
 [itch.io](https://keichits.itch.io/)
 
 
-### In media: 
+## In media: 
 
 [Hackatom ROSATOM 2020](https://portal.if.usp.br/imprensa/pt-br/node/3891)
+
+## Github Stats:
+
+![KeichiTS's Stats](https://github-readme-stats.vercel.app/api/?username=KeichiTS&show_icons=true&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=353535)
