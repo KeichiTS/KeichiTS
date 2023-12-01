@@ -34,5 +34,4 @@ SOON... (UNDER CONSTRUCTION)
 ## Github Stats:
 
 ![KeichiTS's Stats](https://github-readme-stats.vercel.app/api?username=KeichiTS&show_icons=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KeichiTS&theme=dark&hide_border=false)<br/>
 
