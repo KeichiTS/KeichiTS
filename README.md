@@ -28,8 +28,9 @@ SOON... (UNDER CONSTRUCTION)
 
 
 ## In media: 
-
+<p>
 [Hackatom ROSATOM 2022](https://portal.if.usp.br/imprensa/pt-br/node/3891)
+<br>
 [Hackatom ROSATOM 2023](https://www.ipen.br/portal_por/portal/interna.php?secao_id=38&campo=20137)
 
 
