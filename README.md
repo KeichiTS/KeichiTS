@@ -13,7 +13,7 @@ My interests and skills include natural sciences, programming, eletronics, and a
 
 ## Curriculum Vitae:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](ttps://www.linkedin.com/in/victor-keichi-tsutsumiuchi-434606134/)
-[![Lattes](https://img.shields.io/badge/Lattes-0077B5?style=for-the-badge&logo=lattes&logoColor=b1b1b1)]([ttps://www.linkedin.com/in/victor-keichi-tsutsumiuchi-434606134/](http://lattes.cnpq.br/4015593604604502))
+![Lattes](https://img.shields.io/badge/:badgeContent?logo=lattes&logoColor=%235fcde4&color=%235fcde4&link=http%3A%2F%2Flattes.cnpq.br%2F4015593604604502)
 
 
 ## Work and Research: 
