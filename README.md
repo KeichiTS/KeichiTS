@@ -22,7 +22,7 @@ SOON... (UNDER CONSTRUCTION)
 
 
 ## Gamedev Content: 
-[itch.io](https://keichits.itch.io/)
+[![itch.io](https://img.shields.io/badge/itchio-0077B5?style=for-the-badge&logo=itchiio&logoColor=fff)](https://keichits.itch.io/)
 
 
 ## In media: 
